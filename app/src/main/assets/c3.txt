@@ -1,0 +1,4 @@
+Chapter 3 : Python Input and Output
+
+1) For input we use input()
+2) For output we use print()

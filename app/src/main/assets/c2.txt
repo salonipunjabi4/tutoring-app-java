@@ -1,0 +1,5 @@
+Chapter 2 : Python Fundamentals
+
+1) Python uses Unicode.
+2) Python supports single line comments.
+3) Python is a dynamic language.
